@@ -33,7 +33,7 @@ export default function Header() {
             underline="none"
             to="/"
           >
-            My Store!
+            My Store! Serverless build Automated 
           </Link>
         </Typography>
 
